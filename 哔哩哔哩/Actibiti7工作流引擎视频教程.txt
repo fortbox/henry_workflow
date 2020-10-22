@@ -25,6 +25,26 @@ activiti7 25张表
 6，处理代办任务
 7，结束流程
 
+部署步骤：
+1，创建ProcessEngine对象
+2，得到RepositoryService实例
+3，进行部署
+
+启动流程实例：
+1，得到ProcessEngine对象
+2，得到RunService对象
+3，创建流程实例
+4，输出实例的相关信息
+
+
+
+
+
+
+
+
+
+
 
 
 
